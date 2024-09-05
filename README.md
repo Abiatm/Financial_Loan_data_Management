@@ -3,8 +3,8 @@
 ## Table of contents 
 - [INTRODUCTION](#INTRODUCTION)
 - [PROBLEM STATEMENT](#PROBLEM-STATEMENT)
-- [Data Source](#Data-Source)
-- [Tools Used](#tools-used)
+- [DATA SOURCE](#DATA-SOURCE)
+- [TOOLS USED](#TOOLS-USED)
 - [DATA ANALYSIS](#DATA-ANALYSIS)
 - [IMAGE](#IMAGE)
 - [RESULT](#RESULT)
