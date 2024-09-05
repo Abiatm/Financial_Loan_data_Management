@@ -7,7 +7,7 @@
 - [TOOLS USED](#TOOLS-USED)
 - [DATA ANALYSIS](#DATA-ANALYSIS)
 - [IMAGE](#IMAGE)
-- [RESULT](#RESULT)
+- [RESULTS](#RESULTS)
 - [RECOMMENDATIONS](#RECOMMENDATIONS)
 ### INTRODUCTION
 This is a financial system that provides loan to it's customers and based on the type of loan needed it determines the interest rate to be paid by the customer.
@@ -27,7 +27,7 @@ Financial institution
 ### IMAGE
  ![FINANCIAL_PORT](https://github.com/user-attachments/assets/3cc8c4cd-b973-4caa-8ab4-028c895d1886)
 
-### RESULT
+### RESULTS
 -	From the analysis it shows that none has the same loan amount even though they belong to same loan category.
 -	The analysis shows that 'dave williams' has the second highest loan amount of 8,500 with location at Delta
 -	Maximun loan amount differs per branch,customers from 'auto loan and business loan' do have the maximun loan amount for their department.
